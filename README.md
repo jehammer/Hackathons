@@ -11,3 +11,9 @@ Credit where it is due (aside from myself):
      
      Diamondrubix: (https://github.com/Diamondrubix)
      
+     
+Gradient
+      
+      Diamondrubix: (https://github.com/Diamondrubix)
+      
+      kyleOckerlund: (https://github.com/kyleOckerlund)
