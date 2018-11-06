@@ -1,0 +1,12 @@
+root { display: block;}
+html{
+    height:100%;
+    background-size:cover;
+    background: green;
+    background: -webkit-linear-gradient(bottom left, green, purple);
+    background: -moz-linear-gradient(bottom left, green, purple);
+   background: -o-linear-gradient(bottom left, green, purple);
+   background: linear-gradient(to top right, green, purple);    
+}
+
+#login{margin:auto; width: 50%; border: 3px solid green; padding: 10px; align:center}

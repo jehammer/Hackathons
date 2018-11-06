@@ -1,0 +1,7 @@
+#Sat May 27 18:08:37 CDT 2017
+base.0=/home/diamondrubix/Documents/Hackathon/mobile-app/Rcphone/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2e2e2b493f7e7089f4af83ab3eec83033d7b4906
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/diamondrubix/Documents/Hackathon/mobile-app/Rcphone/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b58d5b3ffd8ffa2bc6d31266ccfcfa8c40fd0f75/classes.dex
+base.1=/home/diamondrubix/Documents/Hackathon/mobile-app/Rcphone/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b58d5b3ffd8ffa2bc6d31266ccfcfa8c40fd0f75
+file.0=/home/diamondrubix/Documents/Hackathon/mobile-app/Rcphone/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2e2e2b493f7e7089f4af83ab3eec83033d7b4906/classes.dex
