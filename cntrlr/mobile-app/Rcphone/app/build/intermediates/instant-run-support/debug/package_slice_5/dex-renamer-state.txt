@@ -1,4 +1,0 @@
-#Sat May 27 18:08:36 CDT 2017
-base.0=/home/diamondrubix/Documents/Hackathon/mobile-app/Rcphone/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5
-renamed.0=classes.dex
-file.0=/home/diamondrubix/Documents/Hackathon/mobile-app/Rcphone/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex
